@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "31de82fd668cc202",
+    "type": "split",
+    "children": [
+      {
+        "id": "0628c13c1247a139",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22dcd647e19d52fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DATA/What is GIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d737b9f6d0f22c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe7876f0d2ebf676",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e4ad21b547ec226",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a38a39b12cf5502",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "678aa616003d3e69",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fff609546c330748",
+    "type": "split",
+    "children": [
+      {
+        "id": "890f2f42d360cd3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5d7629c506430cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DATA/What is GIT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fccb87ebc0b743cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DATA/What is GIT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c802e6ad2c09c83e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eebed4cd50bd2f7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DATA/What is GIT.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "22dcd647e19d52fc",
+  "lastOpenFiles": [
+    "DATA/0.1. Git -introduction.md",
+    "DATA/What is GIT.md",
+    "Untitled.md",
+    "DTA.md",
+    "IMAGES",
+    "DATA",
+    "Welcome.md"
+  ]
+}
